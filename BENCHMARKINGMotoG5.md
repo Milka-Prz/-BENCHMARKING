@@ -43,10 +43,6 @@ La importancia del "_benchmarking_" no se encuentra en la detallada mecánica de
 | RINGTONES| Polifónico, MP3, WAV 
 | MEMORIA |16GB/32GB memoria interna, 2GB/3GB RAM,Procesador Qualcomm MSM8937 Snapdragon 430 octa-core 1.4GHz, GPU Adreno 505  |
 
-
- ### CARACTERISTICAS PRINCIPALES DE LA CÁMARA MOTOROLA MOTO G5.
- ![enter image description here](https://cdn4.cnet.com/img/7WQwjd1Uzd8NMnqn2yKCmbUklcg=/770x433/2017/02/25/f756f85c-c1da-454c-9e81-2ed3e31b168a/motorola-moto-g5-plus-2.jpg)
-- 13 MP, f/2.0, autofocus por detección de fase, flash LED, HDR, Panorama, geo-tagging, foco táctil, video 1080p@30fps, cámara frontal 5 MP, f/2.2 SIM dual (opcional)  
 - GPS con soporte A-GPS, GLONASS  
 - Brújula digital  
 - EDGE  
@@ -64,4 +60,9 @@ La importancia del "_benchmarking_" no se encuentra en la detallada mecánica de
 - Manoslibres incorporado  
 - Ingreso predictivo de texto|
 
+
+
+ ### CARACTERISTICAS PRINCIPALES DE LA CÁMARA MOTOROLA MOTO G5.
+ ![enter image description here](https://cdn4.cnet.com/img/7WQwjd1Uzd8NMnqn2yKCmbUklcg=/770x433/2017/02/25/f756f85c-c1da-454c-9e81-2ed3e31b168a/motorola-moto-g5-plus-2.jpg)
+- 13 MP, f/2.0, autofocus por detección de fase, flash LED, HDR, Panorama, geo-tagging, foco táctil, video 1080p@30fps, cámara frontal 5 MP, f/2.2 SIM dual (opcional) .
 
