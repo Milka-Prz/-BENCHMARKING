@@ -184,6 +184,22 @@ La importancia del "_benchmarking_" no se encuentra en la detallada mecánica de
 |Tiempo de reproducción de video          |Hasta 13h|
 |Tiempo de reproducción de audio          |Hasta 76h|
 |Tiempo de conversación          |Hasta 18h (3G WCDMA)|
+--- 
+| Especificación |HUAWEI GR3 TAG-13|            
+|----------------|--------------|
+|Dimensiones físicas|143.5 x 71 x 7.6 mm|
+|Pantalla|IPS 5 pulgadas|
+|Resolución|HD 1280 x 720 píxeles|
+|Procesador|Mediatek MT6753T 8 nucleos a 1.5 GHz|
+|Procesador Gráfico|ARM Mali-T720 MP3|
+|RAM|2 GB|
+|Memoria|16 GB Ampliable hasta en otros 64 GB con tarjeta microSD|
+|Versión de Software|Android 5.1.1|
+|Conectividad|Wi-Fi 802.11a/b/g/n, Dual MicroSIM, Bluetooth 4.0, GPS, microUSB v2.0, Jack 3,5 mm|
+|Cámaras|Trasera 13 megapíxeles, Frontal de 5 megapíxeles|
+|Batería|Polímero de litio de 2200 mAh|
+
+## Benchmarking de fotografías bajo las mismas condiciones. 
 
 
 
